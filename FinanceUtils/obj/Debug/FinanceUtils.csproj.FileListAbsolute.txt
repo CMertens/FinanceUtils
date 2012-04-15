@@ -1,0 +1,6 @@
+c:\dev\GitHub\FinanceUtils\FinanceUtils\FinanceUtils\bin\Debug\CMoney\Fractionals.xml
+c:\dev\GitHub\FinanceUtils\FinanceUtils\FinanceUtils\bin\Debug\FinanceUtils.dll
+c:\dev\GitHub\FinanceUtils\FinanceUtils\FinanceUtils\bin\Debug\FinanceUtils.pdb
+c:\dev\GitHub\FinanceUtils\FinanceUtils\FinanceUtils\obj\Debug\ResolveAssemblyReference.cache
+c:\dev\GitHub\FinanceUtils\FinanceUtils\FinanceUtils\obj\Debug\FinanceUtils.dll
+c:\dev\GitHub\FinanceUtils\FinanceUtils\FinanceUtils\obj\Debug\FinanceUtils.pdb
